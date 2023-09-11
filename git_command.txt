@@ -22,3 +22,4 @@ git branch <branch name>                     // create new branch
 git checkout <branch name>                   // switched to new branch
 git merge <new branch name>                  // merge in new branch
 git checkout -b <branch name>                // create and move to new branch
+git push -u origin <branch name>             // upload files to github
