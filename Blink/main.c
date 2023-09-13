@@ -1,4 +1,4 @@
-#define LED_BUUILTIN 13 
+#define LED_BUILTIN 13 
 // the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
