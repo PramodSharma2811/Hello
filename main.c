@@ -1,5 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
 void main()
 {
-    printf("HELLO WORLD !");
+    for (int i = 0; i < 5; i++)
+    {
+        printf("HELLO WORLD !\n");
+    }
 }
